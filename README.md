@@ -10,9 +10,9 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/gautam1025"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/gautam4300"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/gautam1025"><img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://gautam1025.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
+<a href="https://gautam4300.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
 <a href="mailto:gautamgupta1025@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
