@@ -35,7 +35,7 @@
 class GautamGupta(FullStackDeveloper):
 
     location   = "Bhilai, Chhattisgarh, India 🇮🇳"
-    currently  = "Web Dev Intern @ Botivate Services LLP, Raipur"
+    currently  = "Web Developer @ Botivate Services LLP, Raipur"
     target     = "SDE-1 | Full-Stack / Backend Roles"
     email      = "gautamgupta1025@gmail.com"
 
